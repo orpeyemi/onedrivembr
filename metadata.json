@@ -1,0 +1,6 @@
+{
+  "name": "OneDrive mb",
+  "description": "A high-security document download portal with email verification and automated Telegram bot notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
